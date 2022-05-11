@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Fifth section/fifth exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/USER/Desktop/Fifth section/fifth exercise/cmake-build-debug/CMakeFiles/fifth_exercise.dir
+C:/Users/USER/Desktop/Fifth section/fifth exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
